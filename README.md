@@ -25,11 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math-Magicians] <a name="about-project"></a>
+# 🧮 Math Magicians <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Math-Magicians]** is a project, that I am using React to create a calculator app.
+**Math Magicians** is a project, that I am using React to create a calculator app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -65,7 +63,7 @@ In order to run this project you need:
 
 - Web Browser
 - Code Editor: [visual Studio code](https://code.visualstudio.com/)
-- node.js(preferable).
+- node.js.
 - GitHub/Git.
 
 ### Setup
@@ -162,6 +160,6 @@ I would like to thank Microverse for the wireframe for this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
